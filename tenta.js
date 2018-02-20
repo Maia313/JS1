@@ -1,5 +1,5 @@
 //1
-var inputBirthDate = "19870227";
+var inputBirthDate = "19370227";
 
 function CalculateAge(birthdate)
 {
