@@ -5,3 +5,4 @@
     -Array methods;
     -Objects;
     -Object oriented javascript;
+    -Functions and DOM;
