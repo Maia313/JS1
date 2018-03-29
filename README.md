@@ -1,7 +1,7 @@
 # JS1
 
     -Data types & variables;
-    -If statements and for loops;
+    -If statements and loops;
     -Array methods;
     -Objects;
     -Object oriented javascript;
